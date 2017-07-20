@@ -1,0 +1,205 @@
+body.body1{
+  background-color: #fff;
+  background-image:url(img/Fond9bis.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  margin:0;
+  background-origin: inherit;
+  }
+
+
+  #button-go{
+    display: block;
+    position: absolute;
+    margin: 0 auto;
+    top: 63%;
+    text-align: center;
+    width: 100%;
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+    font-size: 30px;
+    color: white;
+    text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
+
+    }
+
+div.Pragtik{
+  font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+  color: Black;
+  text-shadow: white 1px 1px, white -1px 1px, white -1px -1px, white 1px -1px;
+  font-size: 55px;
+  font-size: oblique;
+  font-size: bold;
+  text-decoration: underline;
+  text-align: center;
+  }
+
+.text{
+  font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+  font-size: 20px;
+  color: Black;
+  text-shadow: Background 1px 1px, Background -1px 1px, Background -1px -1px, Background 1px -1px;
+  margin-top: 30%;
+  margin-bottom: : 3%;
+  text-align: center;
+  }
+.text2{
+  font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+  font-size: 17px;
+  color: Black;
+  text-shadow: white 1px 1px, white -1px 1px, white -1px -1px, white 1px -1px;
+  text-align: right;
+  margin-right:5%;
+  top: auto;
+  bottom: 5%;
+}
+.text3{
+  font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+  font-size: 17px;
+  color: Black;
+  text-shadow: white 1px 1px, white -1px 1px, white -1px -1px, white 1px -1px;
+  text-align: right;
+  margin-right:5%;
+  margin-bottom: 5%;
+  text-align:bottom;
+  position:absolute;
+  right:10px;
+  bottom:10px
+}
+
+
+
+
+
+
+body{
+  background-color: #fff;
+  background-image:url(img/page4bis.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  margin:0;
+  }
+
+.etape{
+  font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+  font-size: 17px;
+  color: Black;
+  text-shadow: white 1px 1px, white -1px 1px, white -1px -1px, white 1px -1px;
+  text-align: left;
+  margin-left:5%;
+  margin-top: 5%;
+}
+
+  #mapid {
+    width: 800px;
+    height: 370px;
+    margin-left: 1%;
+    margin-right: auto;
+    margin-top: 4%;
+    margin-bottom: 5%;
+  }
+
+  .mylocation {
+    transform: translate(-50%, 10%);
+    -webkit-border-radius: 7;
+    -moz-border-radius: 7;
+    border-radius: 7px;
+    font-family: Arial;
+    color: #1f628d;
+    font-size: 20px;
+    background: #ffffff;
+    padding: 2px 5px 2px 5px;
+    border: solid #1f628d 2px;
+    text-decoration: none;
+}
+
+.mylocation:hover {
+    background: #1f628d;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+input.form_input{
+  padding:2px 5px 0 5px;
+  border:none;
+  border-bottom: 2px solid rgba(21, 90, 176, 0.78);
+}
+
+
+input.form_input:focus{
+  color:white;
+}
+
+.case{
+  text-align: center;
+}
+
+.ou{
+  font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+  font-size: 17px;
+  color: white;
+  text-shadow: black 1px 1px, black -1px 1px, black -1px -1px, black 1px -1px;
+}
+
+#listd{
+  margin-left: 2%;
+}
+
+#button-Home{
+  font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+  font-size: 17px;
+  color: white;
+  text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
+  position:absolute;
+  bottom:0;
+  margin-bottom: 2%;
+  margin-left: 2%;
+}
+
+#button-List{
+  font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+  font-size: 17px;
+  color: white;
+  text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
+}
+
+#Button-list{
+  text-align: left;
+  bottom:0;
+  margin-bottom: 2%;
+  margin-left: 2%;
+}
+#Button-livraison{
+  text-align:right;
+  bottom:0;
+  margin-bottom: 2%;
+  margin-right: 2%;
+}
+
+#hashtag{
+  font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+  font-size: 17px;
+  color: Black;
+  text-shadow: white 1px 1px, white -1px 1px, white -1px -1px, white 1px -1px;
+  text-align: right;
+  bottom:0;
+  margin-bottom: 2%;
+  margin-right: : 2%;
+}
+
+#textlivraison{
+  font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+  font-size: 17px;
+  background-image: -webkit-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet)
+  text-shadow: black 1px 1px, black -1px 1px, black -1px -1px, black 1px -1px;
+  text-align: center;
+  margin-top: 2%;
+}
+
+#Button-précédent{
+  bottom: 0;
+  margin-bottom: 2%;
+  margin-left: 2%;
+  font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+  position: absolute;
+}
